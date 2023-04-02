@@ -1,0 +1,9 @@
+{
+    "baseUrl":"wrongPath",
+    "headers": {"app-id":"6425d8adaffcb4c2cef187e3"},
+    "limitUsers": 20,
+    "limitPosts": 50,
+    "endpointUser": "/user",
+    "endpointPost" : "/post",
+    "endpointComment" :"/comment"
+}
